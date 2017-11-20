@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.nav-sidebar{
+    margin: 80px -20px 20px 20px;
+}
+.nav-sidebar >li >a{
+    padding: 20px 20px;
+}
+.main{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.placeholders{
+    text-align: center;
+    margin-top: 10px;
+    
+    margin-bottom: 30px;
+}
+
+.placeholder{
+    margin-bottom: 20px;
+}
+
+.placehoder img{
+    display: inline;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

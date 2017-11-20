@@ -1,0 +1,73 @@
+/* https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?dpr=1&auto=compress,format&fit=crop&w=1504&h=&q=80&cs=tinysrgb&crop= */
+html{
+    height: 100%;
+}
+.navbar-default .navbar-brand{
+    color: black;
+}
+body{
+    background: url(https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?dpr=1&auto=compress,format&fit=crop&w=1504&h=&q=80&cs=tinysrgb&crop= );
+    background-size: cover;
+    background-position: center;
+    font-family: 'Catamaran', sans-serif;
+}
+.center{
+    text-align: center;
+    
+}
+h2{
+    color: white;
+
+}
+h1,p{
+    color: blue;
+}
+
+.dropdown-menu{
+    text-align: center;
+    min-height: 100px;
+}
+
+   
+.btn-fb{
+    color: #fff;
+    background: #365899;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.btn-tw{
+    color: #fff;
+    background: #55acee;
+    margin: 10px;
+
+}
+.btn-fb:hover{
+    color: #fff;
+    background: #8b9dc3;
+}
+.btn-tw:hover{
+    color: #fff;
+    background:  #8b9dc3;
+}
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255,0.7);
+    padding: 12px 12px 0;
+}
+#login .social-buttons{
+    margin: 12px 0;
+
+
+
+
+
+@media(max-width:768px){
+    h1,h2,{
+        background: #3bff00;
+    
+}@media(min-width:768px){
+    h1,h2,{
+        background: #3bff00;
+        
+    
+}
